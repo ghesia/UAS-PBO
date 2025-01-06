@@ -18,6 +18,6 @@
  - Export Data ke CSV
 
 # Link demontrasi
-[![Project Demo][(https://youtu.be/gCBTOK8pDlA?feature=shared](https://youtu.be/6lgx9Chc8P0?si=S-znY6rgWFCsCamw))]
+[![Project Demo][(https://youtu.be/6lgx9Chc8P0?si=S-znY6rgWFCsCamw)]
 
 ---
